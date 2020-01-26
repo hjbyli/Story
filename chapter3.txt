@@ -1,1 +1,3 @@
 This is my third chapter.
+
+And this is changes for the second branch.
